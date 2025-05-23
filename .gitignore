@@ -1,0 +1,6 @@
+# lazy neovim 
+lazy-lock.json
+
+# yazi themes
+yazi/.config/yazi/flavors/
+yazi/.config/yazi/package.toml
